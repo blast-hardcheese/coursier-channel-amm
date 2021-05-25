@@ -1,0 +1,11 @@
+{
+  "mainClass": "ammonite.Main",
+  "repositories": [
+    "central"
+  ],
+  "dependencies": [
+    "com.lihaoyi:ammonite_2.11.12:1.6.7"
+  ],
+  "classifiers": ["_", "sources"],
+  "name": "amm-2.11"
+}
